@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string name="ketAlpukat">Alpukat adalah buah yang berwarna hijau</string>
+    <string name="ketApel">Apel adalah buah yang berwarna Merah</string>
+    <string name="ketCeri">Ceri adalah buah yang ukuranya kecil</string>
+    <string name="ketDurian">Durian adalah buah yang memiliki banyak duri</string>
+</resources>
